@@ -30,4 +30,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would want to make changes in a separate branch instead of master to ensure that I am not breaking the most important branch in the repository.
+	If I want to test a new feature, I may also make a different branch first. If I were to make changes directly in master, one benefit would be that
+	it wouldn't be necessary to do any merging.
